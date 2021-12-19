@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (6 days ago)
 - [takuti/cv](https://github.com/takuti/cv) -  (2 weeks ago)
 - [takuti/wims-2015](https://github.com/takuti/wims-2015) - User Modeling in Folksonomies: Relational Clustering and Tag Weighting (1 month ago)
