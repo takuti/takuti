@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (4 days ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 week ago)
 - [takuti/cv](https://github.com/takuti/cv) -  (2 weeks ago)
 - [takuti/wims-2015](https://github.com/takuti/wims-2015) - User Modeling in Folksonomies: Relational Clustering and Tag Weighting (1 month ago)
@@ -33,7 +33,7 @@
 #### 📜 My recent blog posts
 
 - [Quality Habit-Formation: It&#39;s Like Casting a Vote on My Desired Identity](https://takuti.me/note/atomic-habits/) (1 week ago)
-- [How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/) (3 weeks ago)
+- [How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/) (4 weeks ago)
 - [What Container and JIT Mean for Today&#39;s Supply Chain Disruption](https://takuti.me/note/supply-chain-disruption/) (1 month ago)
 - [I Tried Audio Journaling for 30 Days](https://takuti.me/note/audio-journaling/) (1 month ago)
 - [Cross-Framework Dependency Injection with spring-guice](https://takuti.me/note/spring-guice/) (1 month ago)
