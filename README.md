@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (4 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 week ago)
 - [takuti/cv](https://github.com/takuti/cv) -  (2 weeks ago)
 - [takuti/wims-2015](https://github.com/takuti/wims-2015) - User Modeling in Folksonomies: Relational Clustering and Tag Weighting (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix most popular count](https://github.com/takuti/Recommendation.jl/pull/19) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (9 months ago)
+- [Fix most popular count](https://github.com/takuti/Recommendation.jl/pull/19) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Enable Documenter via GitHub Actions](https://github.com/takuti/Recommendation.jl/pull/18) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Add GitHub Actions Workflow for CI](https://github.com/takuti/Recommendation.jl/pull/17) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Update README and documentation](https://github.com/treasure-data/pytd/pull/107) on [treasure-data/pytd](https://github.com/treasure-data/pytd) (10 months ago)
