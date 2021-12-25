@@ -24,11 +24,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix CONTRIBUTING/LICENSE links](https://github.com/aws-samples/amazon-mwaa-examples/pull/10) on [aws-samples/amazon-mwaa-examples](https://github.com/aws-samples/amazon-mwaa-examples) (today)
 - [Fix most popular count](https://github.com/takuti/Recommendation.jl/pull/19) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Enable Documenter via GitHub Actions](https://github.com/takuti/Recommendation.jl/pull/18) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Add GitHub Actions Workflow for CI](https://github.com/takuti/Recommendation.jl/pull/17) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 - [Update README and documentation](https://github.com/treasure-data/pytd/pull/107) on [treasure-data/pytd](https://github.com/treasure-data/pytd) (10 months ago)
-- [Run PyPI release workflow against version tag push](https://github.com/treasure-data/pytd/pull/106) on [treasure-data/pytd](https://github.com/treasure-data/pytd) (10 months ago)
 
 #### 📜 My recent blog posts
 
