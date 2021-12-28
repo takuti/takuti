@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (2 weeks ago)
 - [takuti/cv](https://github.com/takuti/cv) -  (3 weeks ago)
 - [takuti/wims-2015](https://github.com/takuti/wims-2015) - User Modeling in Folksonomies: Relational Clustering and Tag Weighting (1 month ago)
-- [takuti-sandbox/spring-guice-test](https://github.com/takuti-sandbox/spring-guice-test) - Test cross-framework DI (1 month ago)
 
 #### 🌱 My latest projects
 
+- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud
 - [takuti/cloudtree](https://github.com/takuti/cloudtree) - Create a word cloud based on link-tree traversal given a root URL
 - [takuti/life-chart](https://github.com/takuti/life-chart) - Drawing a life chart
 - [takuti/leetcode](https://github.com/takuti/leetcode) - 
-- [takuti/HackerRank](https://github.com/takuti/HackerRank) - My HackerRank solutions
 
 #### 🔭 Latest releases I've contributed to
 
