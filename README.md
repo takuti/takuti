@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 days ago)
+- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 day ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (2 weeks ago)
 - [takuti/cv](https://github.com/takuti/cv) -  (3 weeks ago)
