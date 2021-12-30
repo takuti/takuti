@@ -1,24 +1,28 @@
 ### Hi, I'm Takuya 👋
 
-**Takuya Kitazawa** is a product developer, minimalistic traveler, ultralight hiker & runner, and craft beer enthusiast. Throughout my career, I have practically worked as a full-stack software engineer, OSS developer, technical evangelist, sales engineer, data scientist, machine learning engineer, and product manager.
+Visit **[takuti.me](https://takuti.me/)** for more information. You can also find me on [Twitter](https://twitter.com/takuti) and [LinkedIn](https://linkedin.com/in/takuti).
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
+
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 5}}
+
+{{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
+
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
+
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
@@ -27,12 +31,6 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ❤️ Support (thank you!)
+#### ❤️ Support (Thank you!)
 
-- [Gift a cup of coffee](https://www.buymeacoffee.com/takuti)
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/takuti
-- LinkedIn: https://linkedin.com/in/takuti
-- Blog: https://takuti.me/
+<a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
