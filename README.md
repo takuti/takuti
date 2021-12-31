@@ -24,9 +24,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Fix typos in Getting Started](https://github.com/alan-turing-institute/MLJ.jl/pull/881) on [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) (today)
+- [Enable to initialize params with random numbers when training](https://github.com/takuti/Recommendation.jl/pull/22) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Make `MF` alias of `MatrixFactorization` fo readability](https://github.com/takuti/Recommendation.jl/pull/21) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Fix CONTRIBUTING/LICENSE links](https://github.com/aws-samples/amazon-mwaa-examples/pull/10) on [aws-samples/amazon-mwaa-examples](https://github.com/aws-samples/amazon-mwaa-examples) (6 days ago)
-- [Fix most popular count](https://github.com/takuti/Recommendation.jl/pull/19) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (10 months ago)
 
 #### 📜 My recent blog posts
 
