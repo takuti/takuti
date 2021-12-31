@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework (today)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
-- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -19,6 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.0), 2 days ago) - A Julia machine learning framework
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.3.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.3.0), 2 years ago) - Building recommender systems in Julia
 
 #### 🔨 Latest Pull Requests I published
