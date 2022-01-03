@@ -25,9 +25,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [tpl: Handle `audio` front matter as an array in opengraph](https://github.com/gohugoio/hugo/pull/9344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Standardize missing value representation/handling logic](https://github.com/takuti/Recommendation.jl/pull/24) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Fix typos in Getting Started](https://github.com/alan-turing-institute/MLJ.jl/pull/881) on [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) (3 days ago)
-- [Enable to initialize params with random numbers when training](https://github.com/takuti/Recommendation.jl/pull/22) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
 
 #### 📜 My recent blog posts
 
