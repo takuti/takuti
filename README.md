@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework (3 days ago)
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Standardize missing value representation/handling logic](https://github.com/takuti/Recommendation.jl/pull/24) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Fix typos in Getting Started](https://github.com/alan-turing-institute/MLJ.jl/pull/881) on [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) (3 days ago)
 - [Enable to initialize params with random numbers when training](https://github.com/takuti/Recommendation.jl/pull/22) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
-- [Make `MF` alias of `MatrixFactorization` fo readability](https://github.com/takuti/Recommendation.jl/pull/21) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
 
 #### 📜 My recent blog posts
 
