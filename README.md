@@ -19,15 +19,16 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.2](https://github.com/takuti/prelims/releases/tag/0.0.2), today) - Front matter post-processor for static site generators
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.4.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.4.0), 4 days ago) - Building recommender systems in Julia
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.0), 1 week ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add workflow step for GitHub release](https://github.com/takuti/prelims/pull/5) on [takuti/prelims](https://github.com/takuti/prelims) (today)
 - [Add PyPI release GitHub Actions flow](https://github.com/takuti/prelims/pull/4) on [takuti/prelims](https://github.com/takuti/prelims) (2 days ago)
 - [Add processor for extracting file paths](https://github.com/takuti/prelims/pull/3) on [takuti/prelims](https://github.com/takuti/prelims) (2 days ago)
-- [tpl: Handle `audio` front matter as an array in opengraph](https://github.com/gohugoio/hugo/pull/9344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 #### 📜 My recent blog posts
 
