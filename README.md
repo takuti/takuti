@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (3 days ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 week ago)
 
@@ -26,17 +26,17 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Migrate Travis/AppVeyor to GitHub Actions](https://github.com/takuti/flurs/pull/11) on [takuti/flurs](https://github.com/takuti/flurs) (today)
 - [Add workflow step for GitHub release](https://github.com/takuti/prelims/pull/5) on [takuti/prelims](https://github.com/takuti/prelims) (2 days ago)
 - [Add PyPI release GitHub Actions flow](https://github.com/takuti/prelims/pull/4) on [takuti/prelims](https://github.com/takuti/prelims) (4 days ago)
-- [Add processor for extracting file paths](https://github.com/takuti/prelims/pull/3) on [takuti/prelims](https://github.com/takuti/prelims) (4 days ago)
 
 #### 📜 My recent blog posts
 
+- [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (1 day ago)
 - [Ethical Product Developer](https://takuti.me/note/ethical-product-developer/) (1 week ago)
 - [My 2021 Annual Review: A Year of Divergence (And Slowly Started Converging)](https://takuti.me/note/annual-review-2021/) (2 weeks ago)
 - [Quality Habit-Formation: It&#39;s Like Casting a Vote on My Desired Identity](https://takuti.me/note/atomic-habits/) (4 weeks ago)
 - [How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/) (1 month ago)
-- [What Container and JIT Mean for Today&#39;s Supply Chain Disruption](https://takuti.me/note/supply-chain-disruption/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
 
