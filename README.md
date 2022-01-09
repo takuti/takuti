@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Fix doc string error in Objects.Commit](https://github.com/gitpython-developers/GitPython/pull/1393) on [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) (today)
 - [Migrate Travis/AppVeyor to GitHub Actions](https://github.com/takuti/flurs/pull/11) on [takuti/flurs](https://github.com/takuti/flurs) (today)
 - [Add workflow step for GitHub release](https://github.com/takuti/prelims/pull/5) on [takuti/prelims](https://github.com/takuti/prelims) (2 days ago)
-- [Add PyPI release GitHub Actions flow](https://github.com/takuti/prelims/pull/4) on [takuti/prelims](https://github.com/takuti/prelims) (4 days ago)
 
 #### 📜 My recent blog posts
 
