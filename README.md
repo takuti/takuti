@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (today)
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (1 day ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (4 days ago)
 
 #### 🌱 My latest projects
@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.2](https://github.com/takuti/prelims/releases/tag/0.0.2), 6 days ago) - Front matter post-processor for static site generators
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.4](https://github.com/takuti/flurs/releases/tag/0.0.4), today) - :ocean: FluRS: A Python library for streaming recommendation algorithms
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.3](https://github.com/takuti/prelims/releases/tag/0.0.3), today) - Front matter post-processor for static site generators
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.4.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.4.0), 1 week ago) - Building recommender systems in Julia
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.0), 2 weeks ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
 
