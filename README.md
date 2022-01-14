@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 day ago)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (1 day ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Allow each processor to switch front matter overwrite flag](https://github.com/takuti/prelims/pull/11) on [takuti/prelims](https://github.com/takuti/prelims) (today)
 - [Generate dummy file paths dynamically depending on OS](https://github.com/takuti/prelims/pull/10) on [takuti/prelims](https://github.com/takuti/prelims) (1 day ago)
 - [Make kwargs of sklearn&#39;s TfidfTokenizer fully configurable](https://github.com/takuti/prelims/pull/9) on [takuti/prelims](https://github.com/takuti/prelims) (3 days ago)
-- [Fix doc string error in Objects.Commit](https://github.com/gitpython-developers/GitPython/pull/1393) on [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) (5 days ago)
 
 #### 📜 My recent blog posts
 
