@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 day ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (3 days ago)
 
 #### 🌱 My latest projects
@@ -32,11 +32,11 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [&#34;Diversity&#34; Means More Than What We Typically Think](https://takuti.me/note/the-power-of-diverse-thinking/) (today)
 - [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (1 week ago)
 - [Ethical Product Developer](https://takuti.me/note/ethical-product-developer/) (2 weeks ago)
 - [My 2021 Annual Review: A Year of Divergence (And Slowly Started Converging)](https://takuti.me/note/annual-review-2021/) (3 weeks ago)
 - [Quality Habit-Formation: It&#39;s Like Casting a Vote on My Desired Identity](https://takuti.me/note/atomic-habits/) (1 month ago)
-- [How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
 
