@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Backward incompatible: Rename OG media link extractor](https://github.com/takuti/prelims/pull/14) on [takuti/prelims](https://github.com/takuti/prelims) (today)
 - [Allow each processor to switch front matter overwrite flag](https://github.com/takuti/prelims/pull/11) on [takuti/prelims](https://github.com/takuti/prelims) (3 days ago)
 - [Generate dummy file paths dynamically depending on OS](https://github.com/takuti/prelims/pull/10) on [takuti/prelims](https://github.com/takuti/prelims) (4 days ago)
-- [Make kwargs of sklearn&#39;s TfidfTokenizer fully configurable](https://github.com/takuti/prelims/pull/9) on [takuti/prelims](https://github.com/takuti/prelims) (6 days ago)
 
 #### 📜 My recent blog posts
 
