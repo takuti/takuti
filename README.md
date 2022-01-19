@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Disallow to build fature-based recommender from empty vector](https://github.com/takuti/flurs/pull/12) on [takuti/flurs](https://github.com/takuti/flurs) (today)
 - [Backward incompatible: Rename OG media link extractor](https://github.com/takuti/prelims/pull/14) on [takuti/prelims](https://github.com/takuti/prelims) (2 days ago)
 - [Allow each processor to switch front matter overwrite flag](https://github.com/takuti/prelims/pull/11) on [takuti/prelims](https://github.com/takuti/prelims) (5 days ago)
-- [Generate dummy file paths dynamically depending on OS](https://github.com/takuti/prelims/pull/10) on [takuti/prelims](https://github.com/takuti/prelims) (6 days ago)
 
 #### 📜 My recent blog posts
 
