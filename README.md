@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 days ago)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (2 days ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,11 +32,11 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [The Producer-Consumer Gap](https://takuti.me/note/the-producer-consumer-gap/) (today)
 - [&#34;Diversity&#34; Means More Than What We Typically Think](https://takuti.me/note/the-power-of-diverse-thinking/) (1 week ago)
 - [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (2 weeks ago)
 - [Ethical Product Developer](https://takuti.me/note/ethical-product-developer/) (3 weeks ago)
 - [My 2021 Annual Review: A Year of Divergence (And Slowly Started Converging)](https://takuti.me/note/annual-review-2021/) (4 weeks ago)
-- [Quality Habit-Formation: It&#39;s Like Casting a Vote on My Desired Identity](https://takuti.me/note/atomic-habits/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
 
