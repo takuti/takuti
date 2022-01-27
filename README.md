@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Fix documentation errors in apache-airflow/lineage.rst](https://github.com/apache/airflow/pull/21158) on [apache/airflow](https://github.com/apache/airflow) (today)
 - [Documentation improvements](https://github.com/takuti/flurs/pull/13) on [takuti/flurs](https://github.com/takuti/flurs) (1 week ago)
 - [Disallow to build fature-based recommender from empty vector](https://github.com/takuti/flurs/pull/12) on [takuti/flurs](https://github.com/takuti/flurs) (1 week ago)
-- [Backward incompatible: Rename OG media link extractor](https://github.com/takuti/prelims/pull/14) on [takuti/prelims](https://github.com/takuti/prelims) (1 week ago)
 
 #### 📜 My recent blog posts
 
