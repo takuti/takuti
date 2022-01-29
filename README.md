@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Documentation reorg with flurs.datasets.movielens doc string](https://github.com/takuti/flurs/pull/16) on [takuti/flurs](https://github.com/takuti/flurs) (today)
 - [Setup style checkers and their pre-commit hook](https://github.com/takuti/flurs/pull/15) on [takuti/flurs](https://github.com/takuti/flurs) (1 day ago)
 - [Fix documentation errors in apache-airflow/lineage.rst](https://github.com/apache/airflow/pull/21158) on [apache/airflow](https://github.com/apache/airflow) (2 days ago)
-- [Documentation improvements](https://github.com/takuti/flurs/pull/13) on [takuti/flurs](https://github.com/takuti/flurs) (1 week ago)
 
 #### 📜 My recent blog posts
 
