@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti-sandbox/airflow-test](https://github.com/takuti-sandbox/airflow-test) -  (1 day ago)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), today) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 6 days ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.1](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.1), 1 week ago) - A Julia machine learning framework
-- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.4](https://github.com/takuti/flurs/releases/tag/0.0.4), 2 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 
 #### 🔨 Latest Pull Requests I published
 
