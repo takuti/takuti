@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti-sandbox/airflow-test](https://github.com/takuti-sandbox/airflow-test) -  (1 day ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 days ago)
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,11 +32,11 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (1 day ago)
 - [The Producer-Consumer Gap](https://takuti.me/note/the-producer-consumer-gap/) (1 week ago)
 - [&#34;Diversity&#34; Means More Than What We Typically Think](https://takuti.me/note/the-power-of-diverse-thinking/) (2 weeks ago)
 - [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (3 weeks ago)
 - [Ethical Product Developer](https://takuti.me/note/ethical-product-developer/) (1 month ago)
-- [My 2021 Annual Review: A Year of Divergence (And Slowly Started Converging)](https://takuti.me/note/annual-review-2021/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
 
