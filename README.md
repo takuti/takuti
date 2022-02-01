@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (today)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
-- [takuti-sandbox/airflow-test](https://github.com/takuti-sandbox/airflow-test) -  (1 day ago)
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti-sandbox/airflow-test](https://github.com/takuti-sandbox/airflow-test) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -19,20 +19,20 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), today) - :ocean: FluRS: A Python library for streaming recommendation algorithms
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 6 days ago) - Front matter post-processor for static site generators
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 1 day ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 1 week ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.1](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.1), 1 week ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Documentation reorg with flurs.datasets.movielens doc string](https://github.com/takuti/flurs/pull/16) on [takuti/flurs](https://github.com/takuti/flurs) (2 days ago)
-- [Setup style checkers and their pre-commit hook](https://github.com/takuti/flurs/pull/15) on [takuti/flurs](https://github.com/takuti/flurs) (3 days ago)
-- [Fix documentation errors in apache-airflow/lineage.rst](https://github.com/apache/airflow/pull/21158) on [apache/airflow](https://github.com/apache/airflow) (4 days ago)
+- [Documentation reorg with flurs.datasets.movielens doc string](https://github.com/takuti/flurs/pull/16) on [takuti/flurs](https://github.com/takuti/flurs) (3 days ago)
+- [Setup style checkers and their pre-commit hook](https://github.com/takuti/flurs/pull/15) on [takuti/flurs](https://github.com/takuti/flurs) (4 days ago)
+- [Fix documentation errors in apache-airflow/lineage.rst](https://github.com/apache/airflow/pull/21158) on [apache/airflow](https://github.com/apache/airflow) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (1 day ago)
+- [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (2 days ago)
 - [The Producer-Consumer Gap](https://takuti.me/note/the-producer-consumer-gap/) (1 week ago)
 - [&#34;Diversity&#34; Means More Than What We Typically Think](https://takuti.me/note/the-power-of-diverse-thinking/) (2 weeks ago)
 - [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (3 weeks ago)
