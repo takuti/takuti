@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (1 day ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
-- [takuti-sandbox/airflow-test](https://github.com/takuti-sandbox/airflow-test) -  (3 days ago)
 
 #### 🌱 My latest projects
 
