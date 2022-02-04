@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Implement MovieLens100k data file parser](https://github.com/takuti/Recommendation.jl/pull/31) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Rename `build!` to `fit!` to align with the ML standard](https://github.com/takuti/Recommendation.jl/pull/28) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
 - [Documentation reorg with flurs.datasets.movielens doc string](https://github.com/takuti/flurs/pull/16) on [takuti/flurs](https://github.com/takuti/flurs) (6 days ago)
-- [Setup style checkers and their pre-commit hook](https://github.com/takuti/flurs/pull/15) on [takuti/flurs](https://github.com/takuti/flurs) (1 week ago)
 
 #### 📜 My recent blog posts
 
