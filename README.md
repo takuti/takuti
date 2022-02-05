@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 days ago)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (4 days ago)
 
 #### 🌱 My latest projects
@@ -35,9 +35,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 - [&#34;Definition of Done&#34;](https://takuti.me/note/definition-of-done/) (1 day ago)
 - [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (6 days ago)
 - [The Producer-Consumer Gap](https://takuti.me/note/the-producer-consumer-gap/) (1 week ago)
-- [&#34;Diversity&#34; Means More Than What We Typically Think](https://takuti.me/note/the-power-of-diverse-thinking/) (2 weeks ago)
-- [Recommendation.jl v0.4.0: Working with Missing Values, Data Typing, and Factorization Machines](https://takuti.me/note/recommendation-julia-v040/) (4 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
-<a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
