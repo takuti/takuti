@@ -27,10 +27,10 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://takuti.me/index.xml" 5}}
+{{range rss "https://takuti.me/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ❤️ Support (Thank you!)
 
-<a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
