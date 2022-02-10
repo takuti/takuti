@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (1 day ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -26,13 +26,13 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Download full ml-100k.zip with ZipFile.jl](https://github.com/takuti/Recommendation.jl/pull/35) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Project path restructuring: Evaluation module and base classes](https://github.com/takuti/flurs/pull/20) on [takuti/flurs](https://github.com/takuti/flurs) (2 days ago)
-- [Implement MovieLens100k data file parser](https://github.com/takuti/Recommendation.jl/pull/31) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
+- [Download full ml-100k.zip with ZipFile.jl](https://github.com/takuti/Recommendation.jl/pull/35) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
+- [Project path restructuring: Evaluation module and base classes](https://github.com/takuti/flurs/pull/20) on [takuti/flurs](https://github.com/takuti/flurs) (3 days ago)
+- [Implement MovieLens100k data file parser](https://github.com/takuti/Recommendation.jl/pull/31) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [&#34;Definition of Done&#34;](https://takuti.me/note/definition-of-done/) (5 days ago)
+- [&#34;Definition of Done&#34;](https://takuti.me/note/definition-of-done/) (6 days ago)
 - [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (1 week ago)
 - [The Producer-Consumer Gap](https://takuti.me/note/the-producer-consumer-gap/) (2 weeks ago)
 
