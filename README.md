@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Load user/item categorical attributes from MovieLens 100k data](https://github.com/takuti/Recommendation.jl/pull/37) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Support onehot encoding for categorical features](https://github.com/takuti/Recommendation.jl/pull/36) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
 - [Download full ml-100k.zip with ZipFile.jl](https://github.com/takuti/Recommendation.jl/pull/35) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
-- [Project path restructuring: Evaluation module and base classes](https://github.com/takuti/flurs/pull/20) on [takuti/flurs](https://github.com/takuti/flurs) (4 days ago)
 
 #### 📜 My recent blog posts
 
