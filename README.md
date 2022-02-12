@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (3 days ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (4 days ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 
 #### 🌱 My latest projects
@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Load user/item categorical attributes from MovieLens 100k data](https://github.com/takuti/Recommendation.jl/pull/37) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
-- [Support onehot encoding for categorical features](https://github.com/takuti/Recommendation.jl/pull/36) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Download full ml-100k.zip with ZipFile.jl](https://github.com/takuti/Recommendation.jl/pull/35) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
+- [Load user/item categorical attributes from MovieLens 100k data](https://github.com/takuti/Recommendation.jl/pull/37) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
+- [Support onehot encoding for categorical features](https://github.com/takuti/Recommendation.jl/pull/36) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
+- [Download full ml-100k.zip with ZipFile.jl](https://github.com/takuti/Recommendation.jl/pull/35) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
 
 #### 📜 My recent blog posts
 
