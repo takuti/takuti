@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Fix ML100k data to be loadeed even with path=nothing](https://github.com/takuti/Recommendation.jl/pull/40) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Bump lower bound of Julia version to 1.6](https://github.com/takuti/Recommendation.jl/pull/38) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Load user/item categorical attributes from MovieLens 100k data](https://github.com/takuti/Recommendation.jl/pull/37) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Support onehot encoding for categorical features](https://github.com/takuti/Recommendation.jl/pull/36) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
 
 #### 📜 My recent blog posts
 
