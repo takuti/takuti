@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add ML-latest-small loader with `binarize_multi_label`](https://github.com/takuti/Recommendation.jl/pull/42) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Add Amazon Reviews dataset loader](https://github.com/takuti/Recommendation.jl/pull/41) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Fix ML100k data to be loadeed even with path=nothing](https://github.com/takuti/Recommendation.jl/pull/40) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Bump lower bound of Julia version to 1.6](https://github.com/takuti/Recommendation.jl/pull/38) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
 
 #### 📜 My recent blog posts
 
