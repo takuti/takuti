@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 days ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
 - [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (5 days ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 
@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add Amazon Reviews dataset loader](https://github.com/takuti/Recommendation.jl/pull/41) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Fix ML100k data to be loadeed even with path=nothing](https://github.com/takuti/Recommendation.jl/pull/40) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
 - [Bump lower bound of Julia version to 1.6](https://github.com/takuti/Recommendation.jl/pull/38) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Load user/item categorical attributes from MovieLens 100k data](https://github.com/takuti/Recommendation.jl/pull/37) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
 
 #### 📜 My recent blog posts
 
