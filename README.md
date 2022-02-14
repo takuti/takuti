@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
-- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (5 days ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
+- [takuti/flurs](https://github.com/takuti/flurs) - :ocean: FluRS: A Python library for streaming recommendation algorithms (6 days ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,16 +19,16 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 1 week ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 2 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 2 weeks ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.1](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.1), 3 weeks ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Add dataset loader docstrings to /getting_started page](https://github.com/takuti/Recommendation.jl/pull/45) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
-- [Add `load_lastfm` data loader to get the user-artist listening frequency data](https://github.com/takuti/Recommendation.jl/pull/43) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
-- [Add ML-latest-small loader with `binarize_multi_label`](https://github.com/takuti/Recommendation.jl/pull/42) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
+- [Add dataset loader docstrings to /getting_started page](https://github.com/takuti/Recommendation.jl/pull/45) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
+- [Add `load_lastfm` data loader to get the user-artist listening frequency data](https://github.com/takuti/Recommendation.jl/pull/43) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
+- [Add ML-latest-small loader with `binarize_multi_label`](https://github.com/takuti/Recommendation.jl/pull/42) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
 
 #### 📜 My recent blog posts
 
