@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Port `takuti/SyntheticImplicitFeedback.jl` to `synthetic.jl`](https://github.com/takuti/Recommendation.jl/pull/47) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
 - [Add dataset loader docstrings to /getting_started page](https://github.com/takuti/Recommendation.jl/pull/45) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
-- [Add `load_lastfm` data loader to get the user-artist listening frequency data](https://github.com/takuti/Recommendation.jl/pull/43) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
 
 #### 📜 My recent blog posts
 
