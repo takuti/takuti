@@ -6,8 +6,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (4 days ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Validate, Validate, and Validate Data. But, in terms of what?](https://takuti.me/note/data-validation/) (1 day ago)
 - [&#34;Out of Scope&#34;](https://takuti.me/note/creating-now-page/) (1 week ago)
 - [&#34;Definition of Done&#34;](https://takuti.me/note/definition-of-done/) (2 weeks ago)
-- [Data Ethics with Lineage](https://takuti.me/note/airflow-lineage/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
