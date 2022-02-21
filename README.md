@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Refactor testing modules with `@testset`](https://github.com/takuti/Recommendation.jl/pull/49) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
 - [Port `takuti/SyntheticImplicitFeedback.jl` to `synthetic.jl`](https://github.com/takuti/Recommendation.jl/pull/47) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
-- [Add dataset loader docstrings to /getting_started page](https://github.com/takuti/Recommendation.jl/pull/45) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
 
