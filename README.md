@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (3 days ago)
-- [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (3 days ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (4 days ago)
+- [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (4 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -19,15 +19,15 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 6 days ago) - Building recommender systems in Julia
-- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 2 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 1 week ago) - Building recommender systems in Julia
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 3 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 3 weeks ago) - Front matter post-processor for static site generators
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
-- [Port `takuti/SyntheticImplicitFeedback.jl` to `synthetic.jl`](https://github.com/takuti/Recommendation.jl/pull/47) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
+- [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
+- [Port `takuti/SyntheticImplicitFeedback.jl` to `synthetic.jl`](https://github.com/takuti/Recommendation.jl/pull/47) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 - [Add dataset loader docstrings to /getting_started page](https://github.com/takuti/Recommendation.jl/pull/45) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
