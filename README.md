@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [apache/airflow](https://github.com/apache/airflow) ([2.2.4](https://github.com/apache/airflow/releases/tag/2.2.4), today) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 1 week ago) - Building recommender systems in Julia
 - [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 3 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.6](https://github.com/takuti/prelims/releases/tag/0.0.6), 4 weeks ago) - Front matter post-processor for static site generators
 
 #### 🔨 Latest Pull Requests I published
 
