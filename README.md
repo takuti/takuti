@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 days ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,20 +19,20 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.2.4](https://github.com/apache/airflow/releases/tag/2.2.4), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 1 week ago) - Building recommender systems in Julia
-- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 3 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
+- [apache/airflow](https://github.com/apache/airflow) ([2.2.4](https://github.com/apache/airflow/releases/tag/2.2.4), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 2 weeks ago) - Building recommender systems in Julia
+- [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 4 weeks ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Benchmark recommenders with `fit!` optimization and refactoring](https://github.com/takuti/Recommendation.jl/pull/50) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
-- [Refactor testing modules with `@testset`](https://github.com/takuti/Recommendation.jl/pull/49) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
+- [Benchmark recommenders with `fit!` optimization and refactoring](https://github.com/takuti/Recommendation.jl/pull/50) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
+- [Refactor testing modules with `@testset`](https://github.com/takuti/Recommendation.jl/pull/49) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 - [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Recommender Diversity is NOT Inversion of Similarity](https://takuti.me/note/recommender-diversity/) (today)
+- [Recommender Diversity is NOT Inversion of Similarity](https://takuti.me/note/recommender-diversity/) (1 day ago)
 - [Validate, Validate, and Validate Data. But, in terms of what?](https://takuti.me/note/data-validation/) (1 week ago)
 - [&#34;Out of Scope&#34;](https://takuti.me/note/creating-now-page/) (2 weeks ago)
 
