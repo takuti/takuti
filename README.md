@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Unify `predict` and `ranking` for simplicity](https://github.com/takuti/Recommendation.jl/pull/51) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Benchmark recommenders with `fit!` optimization and refactoring](https://github.com/takuti/Recommendation.jl/pull/50) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
 - [Refactor testing modules with `@testset`](https://github.com/takuti/Recommendation.jl/pull/49) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
-- [Add `load_libsvm_file` function to parse libsvm data](https://github.com/takuti/Recommendation.jl/pull/48) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
 
