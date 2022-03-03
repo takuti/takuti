@@ -6,7 +6,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (4 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add aggregated non-accuracy metrics for diversity and novelty](https://github.com/takuti/Recommendation.jl/pull/55) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Add simple coverage metric between two lists](https://github.com/takuti/Recommendation.jl/pull/54) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
 - [Unify `predict` and `ranking` for simplicity](https://github.com/takuti/Recommendation.jl/pull/51) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
-- [Benchmark recommenders with `fit!` optimization and refactoring](https://github.com/takuti/Recommendation.jl/pull/50) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
 
