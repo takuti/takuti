@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 day ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -26,13 +26,13 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Add aggregated non-accuracy metrics for diversity and novelty](https://github.com/takuti/Recommendation.jl/pull/55) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
-- [Add simple coverage metric between two lists](https://github.com/takuti/Recommendation.jl/pull/54) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 days ago)
-- [Unify `predict` and `ranking` for simplicity](https://github.com/takuti/Recommendation.jl/pull/51) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
+- [Add aggregated non-accuracy metrics for diversity and novelty](https://github.com/takuti/Recommendation.jl/pull/55) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
+- [Add simple coverage metric between two lists](https://github.com/takuti/Recommendation.jl/pull/54) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
+- [Unify `predict` and `ranking` for simplicity](https://github.com/takuti/Recommendation.jl/pull/51) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Recommender Diversity is NOT Inversion of Similarity](https://takuti.me/note/recommender-diversity/) (5 days ago)
+- [Recommender Diversity is NOT Inversion of Similarity](https://takuti.me/note/recommender-diversity/) (6 days ago)
 - [Validate, Validate, and Validate Data. But, in terms of what?](https://takuti.me/note/data-validation/) (1 week ago)
 - [&#34;Out of Scope&#34;](https://takuti.me/note/creating-now-page/) (2 weeks ago)
 
