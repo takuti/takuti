@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Add aggregated non-accuracy metrics for diversity and novelty](https://github.com/takuti/Recommendation.jl/pull/55) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 days ago)
 - [Add simple coverage metric between two lists](https://github.com/takuti/Recommendation.jl/pull/54) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
-- [Unify `predict` and `ranking` for simplicity](https://github.com/takuti/Recommendation.jl/pull/51) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 
 #### 📜 My recent blog posts
 
