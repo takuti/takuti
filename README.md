@@ -19,8 +19,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [apache/airflow](https://github.com/apache/airflow) ([helm-chart/1.5.0](https://github.com/apache/airflow/releases/tag/helm-chart%2F1.5.0), today) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.17.3](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.17.3), 3 days ago) - A Julia machine learning framework
-- [apache/airflow](https://github.com/apache/airflow) ([2.2.4](https://github.com/apache/airflow/releases/tag/2.2.4), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 3 weeks ago) - Building recommender systems in Julia
 
 #### 🔨 Latest Pull Requests I published
