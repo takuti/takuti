@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 week ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 month ago)
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [It &#34;Was&#34; Ethical: Key Takeaways from UMich&#39;s Data Science Ethics Course](https://takuti.me/note/coursera-data-science-ethics/) (today)
 - [Security, Privacy, and Ethics in the Web 3.0 Era](https://takuti.me/note/web3/) (1 week ago)
 - [Serendipity: It&#39;s Relevant AND Unexpected](https://takuti.me/note/novelty-diversity-serendipity/) (2 weeks ago)
-- [Recommender Diversity is NOT Inversion of Similarity](https://takuti.me/note/recommender-diversity/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
