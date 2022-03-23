@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 week ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 month ago)
 
@@ -26,13 +26,13 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 day ago)
+- [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 days ago)
 - [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 - [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [It &#34;Was&#34; Ethical: Key Takeaways from UMich&#39;s Data Science Ethics Course](https://takuti.me/note/coursera-data-science-ethics/) (2 days ago)
+- [It &#34;Was&#34; Ethical: Key Takeaways from UMich&#39;s Data Science Ethics Course](https://takuti.me/note/coursera-data-science-ethics/) (3 days ago)
 - [Security, Privacy, and Ethics in the Web 3.0 Era](https://takuti.me/note/web3/) (1 week ago)
 - [Serendipity: It&#39;s Relevant AND Unexpected](https://takuti.me/note/novelty-diversity-serendipity/) (2 weeks ago)
 
