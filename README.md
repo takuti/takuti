@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
+- [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 - [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 weeks ago)
-- [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 weeks ago)
+- [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
