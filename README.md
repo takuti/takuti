@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 weeks ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 month ago)
 
@@ -27,12 +27,12 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
-- [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 weeks ago)
+- [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
 - [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [3 Pillars of Ethics&#39; Scope: Society, Personal Relationship, and Individual](https://takuti.me/note/ethics-and-relationship/) (2 days ago)
+- [3 Pillars of Ethics&#39; Scope: Society, Personal Relationship, and Individual](https://takuti.me/note/ethics-and-relationship/) (3 days ago)
 - [It &#34;Was&#34; Ethical: Key Takeaways from UMich&#39;s Data Science Ethics Course](https://takuti.me/note/coursera-data-science-ethics/) (1 week ago)
 - [Security, Privacy, and Ethics in the Web 3.0 Era](https://takuti.me/note/web3/) (2 weeks ago)
 
