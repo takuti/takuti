@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (3 weeks ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 month ago)
 
 #### 🌱 My latest projects
@@ -26,7 +26,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Benchmark with all {recommender, metric, dataset} pairs](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
+- [Prepare for cross validation-based benchmarking](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 week ago)
 - [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
 - [Implement intra-list diversity and serendipity metrics](https://github.com/takuti/Recommendation.jl/pull/57) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
 
