@@ -6,7 +6,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (1 month ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Cross Validation for Recommender Systems in Julia](https://takuti.me/note/cross-validation-julia-recommender/) (today)
 - [3 Pillars of Ethics&#39; Scope: Society, Personal Relationship, and Individual](https://takuti.me/note/ethics-and-relationship/) (6 days ago)
 - [It &#34;Was&#34; Ethical: Key Takeaways from UMich&#39;s Data Science Ethics Course](https://takuti.me/note/coursera-data-science-ethics/) (2 weeks ago)
-- [Security, Privacy, and Ethics in the Web 3.0 Era](https://takuti.me/note/web3/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
