@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.2](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.2), 2 days ago) - A Julia machine learning framework
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.2](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.2), 3 days ago) - A Julia machine learning framework
 - [apache/airflow](https://github.com/apache/airflow) ([2.2.5](https://github.com/apache/airflow/releases/tag/2.2.5), 3 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 2 months ago) - Building recommender systems in Julia
 
@@ -33,7 +33,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 📜 My recent blog posts
 
 - [&#34;Why Do We Build This?&#34; Humane Technologist&#39;s View of Bad Product/Project](https://takuti.me/note/foundations-of-humane-technology/) (1 week ago)
-- [Loneliness Is Worse Than Smoking, Alcoholic, Obesity](https://takuti.me/note/loneliness/) (2 weeks ago)
+- [Loneliness Is Worse Than Smoking, Alcoholic, Obesity](https://takuti.me/note/loneliness/) (3 weeks ago)
 - [Cross Validation for Recommender Systems in Julia](https://takuti.me/note/cross-validation-julia-recommender/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
