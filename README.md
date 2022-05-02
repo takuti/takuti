@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Learning Canada&#39;s History](https://takuti.me/note/indigenous-canada-mid-term/) (1 day ago)
 - [&#34;Why Do We Build This?&#34; Humane Technologist&#39;s View of Bad Product/Project](https://takuti.me/note/foundations-of-humane-technology/) (1 week ago)
 - [Loneliness Is Worse Than Smoking, Alcoholic, Obesity](https://takuti.me/note/loneliness/) (3 weeks ago)
-- [Cross Validation for Recommender Systems in Julia](https://takuti.me/note/cross-validation-julia-recommender/) (4 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
