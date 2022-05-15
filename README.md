@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.3.0](https://github.com/apache/airflow/releases/tag/2.3.0), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.3.0](https://github.com/apache/airflow/releases/tag/2.3.0), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.2](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.2), 2 weeks ago) - A Julia machine learning framework
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 2 months ago) - Building recommender systems in Julia
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 3 months ago) - Building recommender systems in Julia
 
 #### 🔨 Latest Pull Requests I published
 
@@ -34,7 +34,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 - [What I Like About Microsoft Recommenders Repository](https://takuti.me/note/microsoft-recommenders/) (1 week ago)
 - [Starting with Empathy to #GetReal, Beat Loneliness, and Be Ethical. #MentalHealthWeek](https://takuti.me/note/canadian-mental-health-week-2022/) (1 week ago)
-- [Learning Canada&#39;s History](https://takuti.me/note/indigenous-canada-mid-term/) (1 week ago)
+- [Learning Canada&#39;s History](https://takuti.me/note/indigenous-canada-mid-term/) (2 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
