@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 month ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (2 months ago)
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Am I Zombie? Autonomy vs. Recommendations on the Internet](https://takuti.me/note/autonomy-vs-algorithmic-recommendation/) (today)
 - [What I Like About Microsoft Recommenders Repository](https://takuti.me/note/microsoft-recommenders/) (1 week ago)
 - [Starting with Empathy to #GetReal, Beat Loneliness, and Be Ethical. #MentalHealthWeek](https://takuti.me/note/canadian-mental-health-week-2022/) (1 week ago)
-- [Learning Canada&#39;s History](https://takuti.me/note/indigenous-canada-mid-term/) (2 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
