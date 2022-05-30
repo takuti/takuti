@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 month ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (3 months ago)
 
@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.3.1](https://github.com/apache/airflow/releases/tag/2.3.1), 4 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.3.1](https://github.com/apache/airflow/releases/tag/2.3.1), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.2](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.2), 1 month ago) - A Julia machine learning framework
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 3 months ago) - Building recommender systems in Julia
 
@@ -32,7 +32,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [Rethinking Why, When, and How I Learn](https://takuti.me/note/goes-back-to-school/) (6 days ago)
+- [Rethinking Why, When, and How I Learn](https://takuti.me/note/goes-back-to-school/) (1 week ago)
 - [Am I Zombie? Autonomy vs. Recommendations on the Internet](https://takuti.me/note/autonomy-vs-algorithmic-recommendation/) (2 weeks ago)
 - [What I Like About Microsoft Recommenders Repository](https://takuti.me/note/microsoft-recommenders/) (3 weeks ago)
 
