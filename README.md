@@ -33,7 +33,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 📜 My recent blog posts
 
 - [Indigenous Canada: Storytelling, Community, and Sustainability](https://takuti.me/note/indigenous-canada-final/) (3 weeks ago)
-- [Becoming Permanent Resident of Canada](https://takuti.me/note/canada-permanent-residency/) (4 weeks ago)
+- [Becoming Permanent Resident of Canada](https://takuti.me/note/canada-permanent-residency/) (1 month ago)
 - [My First Post-Pandemic International Trip](https://takuti.me/note/post-pandemic-first-international-trip/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
