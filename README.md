@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.4](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.4), 5 days ago) - A Julia machine learning framework
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.4](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.4), 6 days ago) - A Julia machine learning framework
 - [apache/airflow](https://github.com/apache/airflow) ([2.3.3](https://github.com/apache/airflow/releases/tag/2.3.3), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v0.5.0](https://github.com/takuti/Recommendation.jl/releases/tag/v0.5.0), 5 months ago) - Building recommender systems in Julia
 
