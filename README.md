@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (4 months ago)
 - [takuti/SyntheticImplicitFeedback.jl](https://github.com/takuti/SyntheticImplicitFeedback.jl) - Generate a set of implicit feedback for item recommendation (5 months ago)
 
@@ -28,11 +28,11 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 - [Add benchmark script for testing multiple different data/recommender/model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 months ago)
 - [Prepare for cross validation-based benchmarking](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 months ago)
-- [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 months ago)
+- [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (today)
+- [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (1 day ago)
 - [Indigenous Canada: Storytelling, Community, and Sustainability](https://takuti.me/note/indigenous-canada-final/) (1 month ago)
 - [Becoming Permanent Resident of Canada](https://takuti.me/note/canada-permanent-residency/) (2 months ago)
 
