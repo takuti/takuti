@@ -33,7 +33,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 📜 My recent blog posts
 
 - [Dilemma of Creative Selection](https://takuti.me/note/creative-selection/) (1 week ago)
-- [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (1 week ago)
+- [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (2 weeks ago)
 - [Indigenous Canada: Storytelling, Community, and Sustainability](https://takuti.me/note/indigenous-canada-final/) (2 months ago)
 
 #### ❤️ Support (Thank you!)
