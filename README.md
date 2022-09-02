@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (today)
 - [Dilemma of Creative Selection](https://takuti.me/note/creative-selection/) (3 weeks ago)
 - [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (3 weeks ago)
-- [Indigenous Canada: Storytelling, Community, and Sustainability](https://takuti.me/note/indigenous-canada-final/) (2 months ago)
 
 #### ❤️ Support (Thank you!)
 
