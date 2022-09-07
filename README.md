@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
-- [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (4 days ago)
-- [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (4 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (5 days ago)
+- [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -26,13 +26,13 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (1 day ago)
 - [Add benchmark script for testing multiple different data/recommender/model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 months ago)
 - [Prepare for cross validation-based benchmarking](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
-- [Implement BPR Matrix Factorization recommender](https://github.com/takuti/Recommendation.jl/pull/59) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (4 days ago)
+- [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (5 days ago)
 - [Dilemma of Creative Selection](https://takuti.me/note/creative-selection/) (3 weeks ago)
 - [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (1 month ago)
 
