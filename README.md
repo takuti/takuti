@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 day ago)
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (6 days ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Privacy Policy](https://takuti.me/privacy-policy/) (3 days ago)
 - [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (6 days ago)
-- [Dilemma of Creative Selection](https://takuti.me/note/creative-selection/) (3 weeks ago)
-- [Recommendation.jl Came Back to #JuliaCon 2022](https://takuti.me/note/juliacon-2022/) (1 month ago)
+- [What I&#39;m Doing Now](https://takuti.me/now/) (6 days ago)
 
 #### ❤️ Support (Thank you!)
 
