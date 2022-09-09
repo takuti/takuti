@@ -27,7 +27,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://takuti.me/index.xml" 3}}
+{{range rss "https://takuti.me/note/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
