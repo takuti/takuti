@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
-- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (3 days ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,20 +19,20 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 1 day ago) - Front matter post-processor for static site generators
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 2 days ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.5](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.5), 1 week ago) - A Julia machine learning framework
 - [apache/airflow](https://github.com/apache/airflow) ([2.3.4](https://github.com/apache/airflow/releases/tag/2.3.4), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (3 days ago)
+- [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (4 days ago)
 - [Add benchmark script for testing multiple different data/recommender/model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
 - [Prepare for cross validation-based benchmarking](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [How I Define &#34;Artificial Intelligence&#34;](https://takuti.me/note/klara-and-the-sun/) (today)
+- [How I Define &#34;Artificial Intelligence&#34;](https://takuti.me/note/klara-and-the-sun/) (1 day ago)
 - [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (1 week ago)
 - [Dilemma of Creative Selection](https://takuti.me/note/creative-selection/) (4 weeks ago)
 
