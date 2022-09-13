@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Preparing for JuliaCon proceeding paper submission](https://github.com/takuti/Recommendation.jl/pull/63) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (1 week ago)
 - [Add benchmark script for testing multiple different data/recommender/model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
-- [Prepare for cross validation-based benchmarking](https://github.com/takuti/Recommendation.jl/pull/60) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 months ago)
 
 #### 📜 My recent blog posts
 
