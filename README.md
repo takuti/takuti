@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Why Your Job Title Matters (Cont.)─Technology for the People](https://takuti.me/note/internet-for-the-people/) (today)
 - [Seeing Past and Present in Coursera &#34;Machine Learning on Google Cloud&#34; Specialization](https://takuti.me/note/coursera-machine-learning-on-gcp/) (1 week ago)
 - [How I Define &#34;Artificial Intelligence&#34;](https://takuti.me/note/klara-and-the-sun/) (1 week ago)
-- [Paddling in the Life, and Currently I&#39;m a Freelance Software Developer](https://takuti.me/note/becoming-a-freelancer-in-canada/) (2 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
