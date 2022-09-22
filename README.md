@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 weeks ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (2 weeks ago)
 
@@ -19,8 +19,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.0](https://github.com/apache/airflow/releases/tag/2.4.0), 2 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 1 week ago) - Front matter post-processor for static site generators
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.0](https://github.com/apache/airflow/releases/tag/2.4.0), 3 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 2 weeks ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.5](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.5), 3 weeks ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
