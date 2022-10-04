@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (3 weeks ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
