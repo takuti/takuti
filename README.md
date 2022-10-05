@@ -5,8 +5,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
-- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (3 weeks ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (4 weeks ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.1](https://github.com/apache/airflow/releases/tag/2.4.1), 4 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.1](https://github.com/apache/airflow/releases/tag/2.4.1), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 3 weeks ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.5](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.5), 1 month ago) - A Julia machine learning framework
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [Reviewing Things I Do Not Know About the Indian Act #NDTR](https://takuti.me/note/national-day-for-truth-and-reconciliation-2022/) (5 days ago)
+- [Reviewing Things I Do Not Know About the Indian Act #NDTR](https://takuti.me/note/national-day-for-truth-and-reconciliation-2022/) (6 days ago)
 - [Why Your Job Title Matters (Cont.)─Technology for the People](https://takuti.me/note/internet-for-the-people/) (1 week ago)
-- [Seeing Past and Present in Coursera &#34;Machine Learning on Google Cloud&#34; Specialization](https://takuti.me/note/coursera-machine-learning-on-gcp/) (2 weeks ago)
+- [Seeing Past and Present in Coursera &#34;Machine Learning on Google Cloud&#34; Specialization](https://takuti.me/note/coursera-machine-learning-on-gcp/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
