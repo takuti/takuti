@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 month ago)
-- [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
 #### 🌱 My latest projects
 
