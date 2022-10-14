@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Ethics in Recommendation Pipeline—A First Look at RecSys 2022 Papers](https://takuti.me/note/recsys-2022/) (today)
 - [My First Month as Self-Employed](https://takuti.me/note/first-month-as-self-employed/) (1 week ago)
 - [Reviewing Things I Do Not Know About the Indian Act #NDTR](https://takuti.me/note/national-day-for-truth-and-reconciliation-2022/) (2 weeks ago)
-- [Why Your Job Title Matters (Cont.)─Technology for the People](https://takuti.me/note/internet-for-the-people/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
