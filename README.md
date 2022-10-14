@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (today)
+- [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (1 day ago)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 month ago)
 
@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.1](https://github.com/apache/airflow/releases/tag/2.4.1), 1 week ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.1](https://github.com/apache/airflow/releases/tag/2.4.1), 2 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 1 month ago) - Front matter post-processor for static site generators
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.5](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.5), 1 month ago) - A Julia machine learning framework
 
