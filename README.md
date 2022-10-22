@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (1 week ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 month ago)
 
@@ -32,7 +32,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [Why We &#34;Productize&#34;](https://takuti.me/note/the-productize-book/) (1 day ago)
+- [Why We &#34;Productize&#34;](https://takuti.me/note/the-productize-book/) (2 days ago)
 - [Ethics in Recommendation Pipeline—A First Look at RecSys 2022 Papers](https://takuti.me/note/recsys-2022/) (1 week ago)
 - [My First Month as Self-Employed](https://takuti.me/note/first-month-as-self-employed/) (2 weeks ago)
 
