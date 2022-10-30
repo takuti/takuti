@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (3 days ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (2 weeks ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 month ago)
 
@@ -19,8 +19,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.6](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.6), 3 days ago) - A Julia machine learning framework
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.2](https://github.com/apache/airflow/releases/tag/2.4.2), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.18.6](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.18.6), 4 days ago) - A Julia machine learning framework
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.2](https://github.com/apache/airflow/releases/tag/2.4.2), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 1 month ago) - Front matter post-processor for static site generators
 
 #### 🔨 Latest Pull Requests I published
@@ -32,7 +32,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [Updating My View of Nuclear Power](https://takuti.me/note/a-bright-future/) (2 days ago)
+- [Updating My View of Nuclear Power](https://takuti.me/note/a-bright-future/) (3 days ago)
 - [Why We &#34;Productize&#34;](https://takuti.me/note/the-productize-book/) (1 week ago)
 - [Ethics in Recommendation Pipeline—A First Look at RecSys 2022 Papers](https://takuti.me/note/recsys-2022/) (2 weeks ago)
 
