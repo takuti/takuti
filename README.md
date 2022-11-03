@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [Connecting the Dots in Complexity](https://takuti.me/note/finding-the-mother-tree/) (today)
 - [Updating My View of Nuclear Power](https://takuti.me/note/a-bright-future/) (1 week ago)
 - [Why We &#34;Productize&#34;](https://takuti.me/note/the-productize-book/) (2 weeks ago)
-- [Ethics in Recommendation Pipeline—A First Look at RecSys 2022 Papers](https://takuti.me/note/recsys-2022/) (2 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
