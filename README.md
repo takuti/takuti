@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (3 weeks ago)
 - [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (1 month ago)
 
@@ -27,12 +27,12 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [Preparing for JuliaCon proceeding paper submission](https://github.com/takuti/Recommendation.jl/pull/63) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 month ago)
-- [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (1 month ago)
+- [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (2 months ago)
 - [Add benchmark script for testing multiple different data/recommender/model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Connecting the Dots in Complexity](https://takuti.me/note/finding-the-mother-tree/) (1 day ago)
+- [Connecting the Dots in Complexity](https://takuti.me/note/finding-the-mother-tree/) (2 days ago)
 - [Updating My View of Nuclear Power](https://takuti.me/note/a-bright-future/) (1 week ago)
 - [Why We &#34;Productize&#34;](https://takuti.me/note/the-productize-book/) (2 weeks ago)
 
