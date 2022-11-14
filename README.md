@@ -19,8 +19,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.3](https://github.com/apache/airflow/releases/tag/2.4.3), today) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.19.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.19.0), 1 week ago) - A Julia machine learning framework
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.2](https://github.com/apache/airflow/releases/tag/2.4.2), 3 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 2 months ago) - Front matter post-processor for static site generators
 
 #### 🔨 Latest Pull Requests I published
