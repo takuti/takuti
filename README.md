@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [apache/airflow](https://github.com/apache/airflow) ([2.4.3](https://github.com/apache/airflow/releases/tag/2.4.3), 5 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.4.3](https://github.com/apache/airflow/releases/tag/2.4.3), 6 days ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.19.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.19.0), 1 week ago) - A Julia machine learning framework
 - [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 2 months ago) - Front matter post-processor for static site generators
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [The Locality of Information and Technology](https://takuti.me/note/why-information-grows/) (1 day ago)
 - [Google Cloud Dataflow and Its Positive Impact on Developer Productivity](https://takuti.me/note/gcp-dataflow/) (1 week ago)
 - [Connecting the Dots in Complexity](https://takuti.me/note/finding-the-mother-tree/) (2 weeks ago)
-- [Updating My View of Nuclear Power](https://takuti.me/note/a-bright-future/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
