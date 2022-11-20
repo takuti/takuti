@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (today)
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (1 month ago)
-- [takuti/prelims](https://github.com/takuti/prelims) - Front matter post-processor for static site generators (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,9 +26,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
+- [Cache matrix factorization-based recommendation scores](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (today)
 - [Preparing for JuliaCon proceeding paper submission](https://github.com/takuti/Recommendation.jl/pull/63) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
 - [Add processor: LastModifiedDateExtractor](https://github.com/takuti/prelims/pull/20) on [takuti/prelims](https://github.com/takuti/prelims) (2 months ago)
-- [Update/optimize evaluation modules with a benchmark script for testing multiple data-recommender-model pairs](https://github.com/takuti/Recommendation.jl/pull/61) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (7 months ago)
 
 #### 📜 My recent blog posts
 
