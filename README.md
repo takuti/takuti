@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (5 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (5 days ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (1 month ago)
 
