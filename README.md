@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (today)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 week ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (2 months ago)
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
+- [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (today)
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (1 week ago)
 - [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (2 weeks ago)
-- [Fluid People and Blended Society: How Systems Model &#34;Dividuals&#34;](https://takuti.me/note/dividual-in-recsys/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
