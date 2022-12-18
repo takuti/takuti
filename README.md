@@ -26,15 +26,15 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (5 days ago)
+- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (6 days ago)
 - [Update cross validation interfaces per recent updates on `evaluate()`](https://github.com/takuti/Recommendation.jl/pull/65) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
-- [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 weeks ago)
+- [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (1 week ago)
-- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (1 week ago)
-- [Fluid People and Blended Society: How Systems Model &#34;Dividuals&#34;](https://takuti.me/note/dividual-in-recsys/) (2 weeks ago)
+- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (2 weeks ago)
+- [Fluid People and Blended Society: How Systems Model &#34;Dividuals&#34;](https://takuti.me/note/dividual-in-recsys/) (3 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
