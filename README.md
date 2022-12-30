@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), today) - GitPython is a python library used to interact with Git repositories.
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 3 weeks ago) - Building recommender systems in Julia
 - [apache/airflow](https://github.com/apache/airflow) ([2.5.0](https://github.com/apache/airflow/releases/tag/2.5.0), 4 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) ([v0.19.0](https://github.com/alan-turing-institute/MLJ.jl/releases/tag/v0.19.0), 1 month ago) - A Julia machine learning framework
 
 #### 🔨 Latest Pull Requests I published
 
