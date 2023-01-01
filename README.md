@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 weeks ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (3 weeks ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (2 months ago)
 
@@ -19,9 +19,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 1 day ago) - GitPython is a python library used to interact with Git repositories.
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 2 days ago) - GitPython is a python library used to interact with Git repositories.
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 3 weeks ago) - Building recommender systems in Julia
-- [apache/airflow](https://github.com/apache/airflow) ([2.5.0](https://github.com/apache/airflow/releases/tag/2.5.0), 4 weeks ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) ([2.5.0](https://github.com/apache/airflow/releases/tag/2.5.0), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 #### 🔨 Latest Pull Requests I published
 
@@ -32,9 +32,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (1 week ago)
+- [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (2 weeks ago)
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (3 weeks ago)
-- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (3 weeks ago)
+- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (4 weeks ago)
 
 #### ❤️ Support (Thank you!)
 
