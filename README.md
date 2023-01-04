@@ -6,7 +6,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 weeks ago)
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (4 weeks ago)
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (1 month ago)
 - [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,8 +19,8 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 4 days ago) - GitPython is a python library used to interact with Git repositories.
-- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 4 weeks ago) - Building recommender systems in Julia
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 5 days ago) - GitPython is a python library used to interact with Git repositories.
+- [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 1 month ago) - Building recommender systems in Julia
 - [apache/airflow](https://github.com/apache/airflow) ([2.5.0](https://github.com/apache/airflow/releases/tag/2.5.0), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 #### 🔨 Latest Pull Requests I published
