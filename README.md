@@ -19,7 +19,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔭 Latest releases I've contributed to
 
 
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 5 days ago) - GitPython is a python library used to interact with Git repositories.
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) ([3.1.30](https://github.com/gitpython-developers/GitPython/releases/tag/3.1.30), 6 days ago) - GitPython is a python library used to interact with Git repositories.
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 1 month ago) - Building recommender systems in Julia
 - [apache/airflow](https://github.com/apache/airflow) ([2.5.0](https://github.com/apache/airflow/releases/tag/2.5.0), 1 month ago) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
@@ -33,7 +33,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 📜 My recent blog posts
 
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (2 weeks ago)
-- [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (3 weeks ago)
+- [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (4 weeks ago)
 - [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (1 month ago)
 
 #### ❤️ Support (Thank you!)
