@@ -28,7 +28,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 - [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 month ago)
 - [Update cross validation interfaces per recent updates on `evaluate()`](https://github.com/takuti/Recommendation.jl/pull/65) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 month ago)
-- [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 month ago)
+- [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
 
 #### 📜 My recent blog posts
 
