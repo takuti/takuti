@@ -34,7 +34,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (1 month ago)
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (1 month ago)
-- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (1 month ago)
+- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (2 months ago)
 
 #### ❤️ Support (Thank you!)
 
