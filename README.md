@@ -20,7 +20,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) ([v1.0.0](https://github.com/takuti/Recommendation.jl/releases/tag/v1.0.0), 2 months ago) - Building recommender systems in Julia
-- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 4 months ago) - Front matter post-processor for static site generators
+- [takuti/prelims](https://github.com/takuti/prelims) ([0.0.7](https://github.com/takuti/prelims/releases/tag/0.0.7), 5 months ago) - Front matter post-processor for static site generators
 - [takuti/flurs](https://github.com/takuti/flurs) ([0.0.5](https://github.com/takuti/flurs/releases/tag/0.0.5), 1 year ago) - :ocean: FluRS: A Python library for streaming recommendation algorithms
 
 #### 🔨 Latest Pull Requests I published
