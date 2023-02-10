@@ -7,7 +7,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 month ago)
 - [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) - Building recommender systems in Julia (2 months ago)
-- [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (3 months ago)
+- [takuti/recsys-wordcloud](https://github.com/takuti/recsys-wordcloud) - Understanding research trends in recommender systems from word cloud (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (1 month ago)
+- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
 - [Update cross validation interfaces per recent updates on `evaluate()`](https://github.com/takuti/Recommendation.jl/pull/65) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
 - [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
 
