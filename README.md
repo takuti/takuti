@@ -5,9 +5,9 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (6 days ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
 - [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (4 weeks ago)
-- [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (4 weeks ago)
+- [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (2 months ago)
+- [Fix JuliaCon proceeding paper compilation error](https://github.com/takuti/Recommendation.jl/pull/66) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 months ago)
 - [Update cross validation interfaces per recent updates on `evaluate()`](https://github.com/takuti/Recommendation.jl/pull/65) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 months ago)
 - [Optimize `recommend()` with bulk prediction](https://github.com/takuti/Recommendation.jl/pull/64) on [takuti/Recommendation.jl](https://github.com/takuti/Recommendation.jl) (3 months ago)
 
