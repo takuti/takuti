@@ -6,7 +6,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 
 - [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 week ago)
-- [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (4 weeks ago)
+- [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (1 month ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
 #### 🌱 My latest projects
