@@ -5,7 +5,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 #### 👷 Check out what I'm currently working on
 
 
-- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (1 day ago)
+- [takuti/takuti.me](https://github.com/takuti/takuti.me) - :point_right: https://takuti.me (2 days ago)
 - [takuti/mac-provisioning](https://github.com/takuti/mac-provisioning) - :wrench: (1 month ago)
 - [takuti/dotfiles](https://github.com/takuti/dotfiles) - @takuti&#39;s dotfiles (1 month ago)
 
@@ -31,7 +31,7 @@ Visit **[takuti.me](https://takuti.me/)** for more information. You can also fin
 
 #### 📜 My recent blog posts
 
-- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (1 day ago)
+- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (2 days ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (1 month ago)
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (3 months ago)
 
