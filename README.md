@@ -1,6 +1,8 @@
 ### Hi, I'm Takuya 👋
 
-Check out 👉 **[takuti.me](https://takuti.me/)**, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
+Freelance software developer. Previously worked for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech).
+
+Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
 - [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (3 days ago)
