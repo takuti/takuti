@@ -5,11 +5,11 @@ Freelance software developer. Previously worked for [@amzn](https://github.com/a
 Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
-- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (3 days ago)
+- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (4 days ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (1 month ago)
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (3 months ago)
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (3 months ago)
-- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (3 months ago)
+- [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
 
