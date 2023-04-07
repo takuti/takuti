@@ -8,7 +8,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (1 week ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (1 month ago)
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (3 months ago)
-- [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (3 months ago)
+- [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (4 months ago)
 - [Data Are Created, Collected, and Processed by People](https://takuti.me/note/data-feminism/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
