@@ -8,7 +8,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (1 week ago)
 - [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (2 weeks ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (1 month ago)
-- [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (3 months ago)
+- [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (4 months ago)
 - [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
