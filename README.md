@@ -5,11 +5,11 @@ Freelance software developer. Previously worked for [@amzn](https://github.com/a
 Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
+- [When We Lose Autonomy—Whose Life Are You Living?](https://takuti.me/note/autonomy-and-life/) (1 day ago)
 - [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (2 weeks ago)
 - [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (3 weeks ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (2 months ago)
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (4 months ago)
-- [Mentoring on @ADPList. Here&#39;s What I Think. #ADPListWrapped](https://takuti.me/note/mentoring/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
 
