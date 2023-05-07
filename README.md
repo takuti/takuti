@@ -6,7 +6,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 
 
 - [When We Lose Autonomy—Whose Life Are You Living?](https://takuti.me/note/autonomy-and-life/) (1 week ago)
-- [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (4 weeks ago)
+- [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (1 month ago)
 - [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (1 month ago)
 - [The Complexity of Simplicity: Tacos, Sushi, and ChatGPT](https://takuti.me/note/complexity-of-simplicity/) (2 months ago)
 - [My 2022 Annual Review: Towards the Deepness](https://takuti.me/note/annual-review-2022/) (4 months ago)
