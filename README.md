@@ -9,7 +9,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [Information Sustainability, Mindful Consumption, and Healthy Engineering](https://takuti.me/note/information-diet/) (2 months ago)
 - [When We Lose Autonomy—Whose Life Are You Living?](https://takuti.me/note/autonomy-and-life/) (3 months ago)
 - [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (3 months ago)
-- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (3 months ago)
+- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
 
