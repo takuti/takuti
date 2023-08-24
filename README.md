@@ -5,11 +5,11 @@ Freelance software developer. Previously worked for [@amzn](https://github.com/a
 Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
+- [Starting Field Study on How Information Flows in Malawi](https://takuti.me/note/volunteering-in-malawi/) (1 day ago)
 - [Runner&#39;s Search for Identity](https://takuti.me/note/search-for-identity/) (2 months ago)
 - [Information Sustainability, Mindful Consumption, and Healthy Engineering](https://takuti.me/note/information-diet/) (3 months ago)
 - [When We Lose Autonomy—Whose Life Are You Living?](https://takuti.me/note/autonomy-and-life/) (4 months ago)
 - [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (4 months ago)
-- [How Information Flows: From Field Studies to Risk Mitigation](https://takuti.me/note/how-information-flows/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
 
