@@ -9,7 +9,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [Runner&#39;s Search for Identity](https://takuti.me/note/search-for-identity/) (2 months ago)
 - [Information Sustainability, Mindful Consumption, and Healthy Engineering](https://takuti.me/note/information-diet/) (3 months ago)
 - [When We Lose Autonomy—Whose Life Are You Living?](https://takuti.me/note/autonomy-and-life/) (4 months ago)
-- [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (4 months ago)
+- [Three Perspectives on Large Language Models and Their Emerging Applications](https://takuti.me/note/three-perspectives-on-llms/) (5 months ago)
 
 ❤️ **Support** (Thank you!)
 
