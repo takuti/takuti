@@ -5,7 +5,7 @@ Freelance software developer. Previously worked for [@amzn](https://github.com/a
 Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
-- [Dilemma over &#34;Best Practice&#34;: How We Could Develop Data Protection Practices in Malawi](https://takuti.me/note/data-protection-law-in-malawi-2023/) (3 days ago)
+- [Dilemma over &#34;Best Practice&#34;: How We Could Develop Data Protection Practices in Malawi](https://takuti.me/note/data-protection-law-in-malawi-2023/) (4 days ago)
 - [Definition, Role, and Current Status of Digital Literacy in Malawi #LiteracyDay](https://takuti.me/note/digital-malawi-2023/) (3 weeks ago)
 - [Starting Field Study on How Information Flows in Malawi](https://takuti.me/note/volunteering-in-malawi/) (1 month ago)
 - [Runner&#39;s Search for Identity](https://takuti.me/note/search-for-identity/) (3 months ago)
