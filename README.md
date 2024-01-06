@@ -9,7 +9,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [Is Computer Education Always Good?](https://takuti.me/note/computer-education-in-malawi/) (1 month ago)
 - [Starting with Humanity—Growth and Technology Otherwise Hurt You](https://takuti.me/note/playing-in-malawi/) (2 months ago)
 - [Dilemma over &#34;Best Practice&#34;: How We Could Develop Data Protection Practices in Malawi](https://takuti.me/note/data-protection-law-in-malawi-2023/) (3 months ago)
-- [Definition, Role, and Current Status of Digital Literacy in Malawi #LiteracyDay](https://takuti.me/note/digital-malawi-2023/) (3 months ago)
+- [Definition, Role, and Current Status of Digital Literacy in Malawi #LiteracyDay](https://takuti.me/note/digital-malawi-2023/) (4 months ago)
 
 ❤️ **Support** (Thank you!)
 
