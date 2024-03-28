@@ -5,7 +5,7 @@ Freelance software developer. Previously worked for [@amzn](https://github.com/a
 Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
 
 
-- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/) (5 days ago)
+- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/) (6 days ago)
 - [One of the Poorest Life Is Not *That* Bad](https://takuti.me/note/malawian-personal-finance/) (1 month ago)
 - [Relativize Malawi, and Rethink Their Contexts](https://takuti.me/note/relativize-and-contextualize/) (1 month ago)
 - [My 2023 Annual Review: Between Individual and Systems](https://takuti.me/note/annual-review-2023/) (3 months ago)
