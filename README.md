@@ -9,7 +9,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 - [One of the Poorest Life Is Not *That* Bad](https://takuti.me/note/malawian-personal-finance/) (2 months ago)
 - [Relativize Malawi, and Rethink Their Contexts](https://takuti.me/note/relativize-and-contextualize/) (2 months ago)
 - [My 2023 Annual Review: Between Individual and Systems](https://takuti.me/note/annual-review-2023/) (4 months ago)
-- [Is Computer Education Always Good?](https://takuti.me/note/computer-education-in-malawi/) (4 months ago)
+- [Is Computer Education Always Good?](https://takuti.me/note/computer-education-in-malawi/) (5 months ago)
 
 ❤️ **Support** (Thank you!)
 
