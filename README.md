@@ -7,7 +7,7 @@ Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I
 
 - [Materializing Digital Transformation](https://takuti.me/note/materializing-dx/) (3 weeks ago)
 - [I&#39;m Not &#34;China&#34;—Connecting HERE and THERE in Systems](https://takuti.me/note/my-identity-in-malawi/) (1 month ago)
-- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/) (2 months ago)
+- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/) (3 months ago)
 - [One of the Poorest Life Is Not *That* Bad](https://takuti.me/note/malawian-personal-finance/) (3 months ago)
 - [Relativize Malawi, and Rethink Their Contexts](https://takuti.me/note/relativize-and-contextualize/) (4 months ago)
 
