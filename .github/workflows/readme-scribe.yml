@@ -18,6 +18,14 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Set timezone
+        run: |
+          ID="0e1ZjEuN-RXzAVO2A1KGAXr_g"
+          URL=$(curl 'https://ckdatabasews.icloud.com/database/1/com.apple.cloudkit/production/public/records/resolve' \
+            --data-raw "{\"shortGUIDs\":[{\"value\":\"$ID\"}]}" --compressed | jq -r '.results[0].rootRecord.fields.fileContent.value.downloadURL')
+          TZ=$()
+          sed -i "s/__TIMEZONE__/$(curl "$URL")/g" README.md
+
       - uses: actions/upload-artifact@v4
         with:
           name: README.md
