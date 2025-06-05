@@ -1,19 +1,30 @@
 ### Hi, I'm Takuya 👋
 
-Freelance software developer. Previously worked for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech).
+#### 👨🏻‍💻 Freelance Software Developer
 
-Check out 👉 **[takuti.me](https://takuti.me/)** for more information, where I regularly update [what I am doing lately](https://takuti.me/now/) and write [blog posts](https://takuti.me/note/) as:
+- 📍 I am currently in Central Africa Time (GMT+2)
+- 🏃🏻‍♂️ [What I'm doing now](https://takuti.me/now/)
+- 🤝 [Work with me](https://takuti.me/services/)
+- 🎯 I used to work for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech) [[CV](https://takuti.me/cv)]
+
+#### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
-- [The End of the Beginning—What I Talk About When I Talk About Malawi](https://takuti.me/note/one-year-in-malawi/) (11 months ago)
-- [Materializing Digital Transformation](https://takuti.me/note/materializing-dx/) (1 year ago)
-- [I&#39;m Not &#34;China&#34;—Connecting HERE and THERE in Systems](https://takuti.me/note/my-identity-in-malawi/) (1 year ago)
-- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/) (1 year ago)
-- [One of the Poorest Life Is Not *That* Bad](https://takuti.me/note/malawian-personal-finance/) (1 year ago)
+- [Last Push to Internet Penetration](https://ab.takuti.me/p/last-push-to-internet-penetration)
+- [Matching Tech Companies with Nonprofits](https://ab.takuti.me/p/matching-tech-companies-with-nonprofits)
+- [NFT Charity Auction](https://ab.takuti.me/p/nft-charity-auction)
+- [Tech Innovations that Influence Immigration Policy](https://ab.takuti.me/p/tech-innovations-that-influence-immigration-policy)
+- [Digital Archive for Storytelling](https://ab.takuti.me/p/digital-archive-for-storytelling)
 
-❤️ **Support** (Thank you!)
+#### 📝 Read more on [my blog](https://takuti.me/note/)
+
+
+- [The End of the Beginning—What I Talk About When I Talk About Malawi](https://takuti.me/note/one-year-in-malawi/)
+- [Materializing Digital Transformation](https://takuti.me/note/materializing-dx/)
+- [I&#39;m Not &#34;China&#34;—Connecting HERE and THERE in Systems](https://takuti.me/note/my-identity-in-malawi/)
+- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/)
+- [One of the Poorest Life Is Not *That* Bad](https://takuti.me/note/malawian-personal-finance/)
+
+#### 🤝 Support (Thank you!)
 
 <a href="https://www.buymeacoffee.com/takuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
-
-🌍 I am currently in Central Africa Time (GMT+2).
-
