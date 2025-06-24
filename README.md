@@ -10,11 +10,11 @@
 #### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
+- [AI Forecasting for Refugee Crises](https://ab.takuti.me/p/ai-forecasting-for-refugee-crises)
 - [Digital Arts for Youth and Community Wellbeing](https://ab.takuti.me/p/digital-arts-for-youth-and-community-wellbeing)
 - [Refugee-led Observatory for Digital Information Access](https://ab.takuti.me/p/refugee-led-observatory-for-digital-information-access)
 - [Last Push to Internet Penetration](https://ab.takuti.me/p/last-push-to-internet-penetration)
 - [Matching Tech Companies with Nonprofits](https://ab.takuti.me/p/matching-tech-companies-with-nonprofits)
-- [NFT Charity Auction](https://ab.takuti.me/p/nft-charity-auction)
 
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
