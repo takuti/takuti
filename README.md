@@ -10,11 +10,11 @@
 #### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
+- [Morocco&#39;s Digital &#34;Transition&#34;](https://ab.takuti.me/p/morocco-s-digital-transition)
 - [Machine Learning to Combat Election Disinformation](https://ab.takuti.me/p/machine-learning-to-combat-election-disinformation)
 - [Open-Source Child Protection Platform](https://ab.takuti.me/p/open-source-child-protection-platform)
 - [Rooftop Power Plant Makes the Future More Vivid](https://ab.takuti.me/p/rooftop-power-plant-makes-the-future-more-vivid)
 - [AI Forecasting for Refugee Crises](https://ab.takuti.me/p/ai-forecasting-for-refugee-crises)
-- [Digital Arts for Youth and Community Wellbeing](https://ab.takuti.me/p/digital-arts-for-youth-and-community-wellbeing)
 
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
