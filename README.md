@@ -10,11 +10,11 @@
 #### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
+- [People, People, People](https://ab.takuti.me/p/people-people-people)
 - [Chaining Impact](https://ab.takuti.me/p/chaining-impact)
 - [Celebrating Low-Tech Applications](https://ab.takuti.me/p/celebrating-low-tech-applications)
 - [The Role of Governments](https://ab.takuti.me/p/the-role-of-governments)
 - [The Power of Information](https://ab.takuti.me/p/the-power-of-information)
-- [Lessons Learned from 32 Tech-for-Good Stories](https://ab.takuti.me/p/lessons-learned-from-32-tech-for-good-stories)
 
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
