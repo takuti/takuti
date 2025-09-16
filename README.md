@@ -10,11 +10,11 @@
 #### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
+- [Right to Internet Access](https://ab.takuti.me/p/right-to-internet-access)
 - [People, People, People](https://ab.takuti.me/p/people-people-people)
 - [Chaining Impact](https://ab.takuti.me/p/chaining-impact)
 - [Celebrating Low-Tech Applications](https://ab.takuti.me/p/celebrating-low-tech-applications)
 - [The Role of Governments](https://ab.takuti.me/p/the-role-of-governments)
-- [The Power of Information](https://ab.takuti.me/p/the-power-of-information)
 
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
