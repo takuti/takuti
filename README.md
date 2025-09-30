@@ -10,11 +10,11 @@
 #### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
 
 
+- [Tech = Impact Amplifier](https://ab.takuti.me/p/tech-impact-amplifier)
 - [Beyond Buzzwords](https://ab.takuti.me/p/beyond-buzzwords)
 - [Right to Internet Access](https://ab.takuti.me/p/right-to-internet-access)
 - [People, People, People](https://ab.takuti.me/p/people-people-people)
 - [Chaining Impact](https://ab.takuti.me/p/chaining-impact)
-- [Celebrating Low-Tech Applications](https://ab.takuti.me/p/celebrating-low-tech-applications)
 
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
