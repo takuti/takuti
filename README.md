@@ -2,7 +2,7 @@
 
 #### 👨🏻‍💻 Freelance Software Developer
 
-- 📍 I am currently in Japan Standard Time (GMT+9)
+- 📍 I am currently in Hong Kong Standard Time (GMT+8)
 - 🏃🏻‍♂️ [What I'm doing now](https://takuti.me/now/)
 - 🤝 [Work with me](https://takuti.me/services/)
 - 🎯 I used to work for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech) [[CV](https://takuti.me/cv)]
