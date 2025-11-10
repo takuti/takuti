@@ -7,15 +7,6 @@
 - 🤝 [Work with me](https://takuti.me/services/)
 - 🎯 I used to work for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech) [[CV](https://takuti.me/cv)]
 
-#### 💖 [Subscribe](https://ab.takuti.me/subscribe) my "tech for good" newsletter
-
-
-- [Reflections and Updates](https://ab.takuti.me/p/reflections-and-updates)
-- [Tech = Impact Amplifier](https://ab.takuti.me/p/tech-impact-amplifier)
-- [Beyond Buzzwords](https://ab.takuti.me/p/beyond-buzzwords)
-- [Right to Internet Access](https://ab.takuti.me/p/right-to-internet-access)
-- [People, People, People](https://ab.takuti.me/p/people-people-people)
-
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
