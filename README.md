@@ -1,6 +1,6 @@
 ### Hi, I'm Takuya 👋
 
-#### 👨🏻‍💻 Freelance Software Developer
+#### 👨🏻‍💻 Product Developer | Independent Consultant
 
 - 📍 I am currently in Eastern Standard Time (EST)
 - 🏃🏻‍♂️ [What I'm doing now](https://takuti.me/now/)
