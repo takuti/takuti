@@ -10,11 +10,11 @@
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
+- [Missing Link to Bridge the Digital Divide](https://takuti.me/note/digital-divide/)
 - [&#34;We,&#34; Not &#34;I&#34;](https://takuti.me/note/we-not-i/)
 - [The End of the Beginning—What I Talk About When I Talk About Malawi](https://takuti.me/note/one-year-in-malawi/)
 - [Materializing Digital Transformation](https://takuti.me/note/materializing-dx/)
 - [I&#39;m Not &#34;China&#34;—Connecting HERE and THERE in Systems](https://takuti.me/note/my-identity-in-malawi/)
-- [Language: Behind the Power Dynamics in Information Society](https://takuti.me/note/power-of-language/)
 
 #### 🤝 Support (Thank you!)
 
