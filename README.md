@@ -10,11 +10,11 @@
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
+- [Toward Inclusive Education](https://takuti.me/note/pedagogy/)
 - [Who is Digitally Prepared?](https://takuti.me/note/ict-literacy/)
 - [The AI Divide](https://takuti.me/note/ai-divide/)
 - [Why Offline Learning Still Matters in 2026](https://takuti.me/note/offline-learning/)
 - [Missing Link to Bridge the Digital Divide](https://takuti.me/note/digital-divide/)
-- [&#34;We,&#34; Not &#34;I&#34;](https://takuti.me/note/we-not-i/)
 
 #### 🤝 Support (Thank you!)
 
