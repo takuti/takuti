@@ -10,11 +10,11 @@
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
+- [A Recipe for Sustainable Data Products](https://takuti.me/note/data-and-information/)
 - [Toward Inclusive Education](https://takuti.me/note/pedagogy/)
 - [Who is Digitally Prepared?](https://takuti.me/note/ict-literacy/)
 - [The AI Divide](https://takuti.me/note/ai-divide/)
 - [Why Offline Learning Still Matters in 2026](https://takuti.me/note/offline-learning/)
-- [Missing Link to Bridge the Digital Divide](https://takuti.me/note/digital-divide/)
 
 #### 🤝 Support (Thank you!)
 
