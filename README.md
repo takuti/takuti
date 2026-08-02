@@ -9,11 +9,11 @@
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
+- [The State of Development Data](https://takuti.me/note/development-data/)
 - [Developer&#39;s Guide to Building E-Learning Solutions in Resource-Constrained Environments](https://takuti.me/note/e-learning/)
 - [Act on Complicated Things](https://takuti.me/note/complex-vs-complicated/)
 - [A Recipe for Sustainable Data Products](https://takuti.me/note/data-and-information/)
 - [Toward Inclusive Education](https://takuti.me/note/pedagogy/)
-- [Who is Digitally Prepared?](https://takuti.me/note/ict-literacy/)
 
 #### 🤝 Support (Thank you!)
 
