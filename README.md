@@ -2,7 +2,7 @@
 
 #### 👨🏻‍💻 Product Developer | Independent Consultant
 
-- 📍 I am currently in heure avancée du Centre (HAC)
+- 📍 I am currently in heure avancée de l’Est (HAE)
 - 🏃🏻‍♂️ [What I'm doing now](https://takuti.me/now/)
 - 🎯 I used to work for [@amzn](https://github.com/amzn), [@ARMmbed](https://github.com/ARMmbed), [@treasure-data](https://github.com/treasure-data), [@silveregg](https://github.com/silveregg), [@rakutentech](https://github.com/rakutentech) [[Portfolio](https://takuti.me/work/)]
 
