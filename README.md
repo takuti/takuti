@@ -9,11 +9,11 @@
 #### 📝 Read more on [my blog](https://takuti.me/note/)
 
 
+- [Slowing Down Technology Development](https://takuti.me/note/slow-down/)
 - [Why Do We Need Inclusivity?](https://takuti.me/note/inclusivity/)
 - [&#34;Copy and Paste&#34; in Development](https://takuti.me/note/copy-and-paste/)
 - [The State of Development Data](https://takuti.me/note/development-data/)
 - [Developer&#39;s Guide to Building E-Learning Solutions in Resource-Constrained Environments](https://takuti.me/note/e-learning/)
-- [Act on Complicated Things](https://takuti.me/note/complex-vs-complicated/)
 
 #### 🤝 Support (Thank you!)
 
